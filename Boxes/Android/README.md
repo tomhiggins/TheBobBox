@@ -14,3 +14,10 @@
 
 You can now go abut your Android tasks and all the while the blessed sounds will wash over all you do!
 
+# How To AutoRun TheBobBox On The Startup Of Your Android
+
+**1.** Follow the steps above
+
+**2.** Install the [Termux:Boot app](https://wiki.termux.com/wiki/Termux:Boot)
+
+**3.** 

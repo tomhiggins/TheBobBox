@@ -8,4 +8,9 @@
 
     pkg install wget mpv; rm bobbox.sh; wget https://raw.githubusercontent.com/tomhiggins/TheBobBox/main/Boxes/Android/bobbox.sh; sh bobbox.sh
 
-**4.** Enjoy
+**4.** Press the **Enter** key
+
+**5.** Bask in the sounds,  
+
+You can now go abut your Android tasks and all the while the blessed sounds will wash over all you do!
+

@@ -4,7 +4,7 @@
 
 **2.** Open Termux
 
-**3.** Cut this next line onto the command line
+**3.** Copy this next line onto the command line
 
     pkg install wget mpv; rm bobbox.sh; wget https://raw.githubusercontent.com/tomhiggins/TheBobBox/main/Boxes/Android/bobbox.sh; sh bobbox.sh
 
@@ -14,10 +14,16 @@
 
 You can now go abut your Android tasks and all the while the blessed sounds will wash over all you do!
 
-# How To AutoRun TheBobBox On The Startup Of Your Android
+# How To AutoRun TheBobBox On The Startup Of An Android
 
 **1.** Follow the steps above
 
 **2.** Install the [Termux:Boot app](https://wiki.termux.com/wiki/Termux:Boot)
 
-**3.** 
+**3.** Run the Termux:Boot app
+
+**4.** Copy this next line onto the command line
+
+    wget https://raw.githubusercontent.com/tomhiggins/TheBobBox/main/Boxes/Android/setuptermuxboot.sh; sh setuptermuxboot.sh
+
+    

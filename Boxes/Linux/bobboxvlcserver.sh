@@ -2,4 +2,3 @@ echo '' >bob.m3u; wget -q -O - http://hourofslack.libsyn.com/rss | tr '\r' '\n' 
 ip="$(ip addr | grep 'state UP' -A2 | tail -n1 | awk '{print $2}' | cut -f1 -d'/')" 
 cvlc -I http --http-password CHANGEME --http-host $ip --http-port 8066 --sout-keep --sout='#duplicate{dst=gather:std{access=http,mux=mpeg1,dst=:8085},dst=display,select="novideo"}'  bob.m3u &
 echo "The voices are being netcasted from $ip port number 8085"
-echo " #jrbd"

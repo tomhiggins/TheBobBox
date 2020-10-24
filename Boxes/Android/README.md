@@ -26,4 +26,13 @@ You can now go abut your Android tasks and all the while the blessed sounds will
 
     wget https://raw.githubusercontent.com/tomhiggins/TheBobBox/main/Boxes/Android/setuptermuxboot.sh; sh setuptermuxboot.sh
 
-    
+**5.** Press the **Enter** key
+
+Depending on the version of Termux  you might have to launch Termux once 
+or twice to allow it to get the autostart to take hole. After that...
+
+Turn on the Android
+
+Wait a bit and the voices will begin
+
+......or have they?

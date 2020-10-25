@@ -1,4 +1,4 @@
-#Why do this?
+# Why Do This?
 
 Friends, we are surrounded by little used often unused devices that by all rights could be used to 
 land us on the moon or bring to us the riches of our cultures. That they sit and gather electrodust

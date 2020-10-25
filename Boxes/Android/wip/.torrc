@@ -1,0 +1,8 @@
+Log notice file /var/log/tor/notices.log
+RunAsDaemon 1
+DataDirectory /var/lib/tor
+
+HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/hidden_service/
+HiddenServicePort 8066 127.0.0.1:8066
+HiddenServicePort 80 127.0.0.1:80
+HiddenServicePort 22 127.0.0.1:22

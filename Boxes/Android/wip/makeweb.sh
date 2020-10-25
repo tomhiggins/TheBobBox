@@ -1,6 +1,10 @@
 pkg install nginx
 cd ~
 mkdir bobbox
-wget 
-# get and place /data/data/com.termux/files/usr/etc/nginx/nginx.conf
-# get and place  content in bobbox/
+wget https://raw.githubusercontent.com/tomhiggins/TheBobBox/main/Boxes/Android/nginx.conf
+mv nginx.conf /data/data/com.termux/files/usr/etc/nginx/nginx.conf
+echo nginx >~/.termux/boot/startaweb
+# get and place  any content in bobbox/
+cd ~/bobbox
+wget https://github.com/tomhiggins/TheBobBox/raw/main/Content/thebobbox.jpg
+wget http://subgenius.com/Graffix/dobbs.jpg

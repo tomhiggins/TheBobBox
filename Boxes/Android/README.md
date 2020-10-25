@@ -28,6 +28,13 @@ You can now go abut your Android tasks and all the while the blessed sounds will
 
 **5.** Press the **Enter** key
 
+**Note Bene** If the Android has a Lock Screen PIN, Password, or BioMetric setup the 
+player will not start till you Unlock the screen. If you want this to be truly
+automatic on startup you will  need to shut off the Lock Screen.  This is a security 
+risk, if you have any personal info on this Android anyone who can lay hands 
+on it can get that info. If this Android is being used only as a BobBox or content
+server this is not as major an issue. 
+
 Depending on the version of Termux  you might have to launch Termux once 
 or twice to allow it to get the autostart to take hole. After that...
 

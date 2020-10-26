@@ -10,6 +10,8 @@
 
 * If you are using a **Linux** device please start [Here](https://github.com/tomhiggins/TheBobBox/tree/main/Boxes/Linux)
 
+* If you are using a **Windows** device please start [Here](https://github.com/tomhiggins/TheBobBox/blob/main/Boxes/Windows)
+
 * If you are using Another device please wait, technicians are working hard to meet your needs
 
 ![alt tag](https://github.com/tomhiggins/TheBobBox/blob/main/Content/thebobbox.jpg)

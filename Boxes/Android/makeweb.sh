@@ -8,3 +8,7 @@ echo nginx >~/.termux/boot/startaweb
 cd ~/bobbox
 wget https://github.com/tomhiggins/TheBobBox/raw/main/Content/thebobbox.jpg
 wget http://subgenius.com/Graffix/dobbs.jpg
+wget https://raw.githubusercontent.com/zserge/awfice/main/beam.html
+wget https://raw.githubusercontent.com/zserge/awfice/main/calc.html
+wget https://raw.githubusercontent.com/zserge/awfice/main/draw.html
+wget https://raw.githubusercontent.com/zserge/awfice/main/edit.html

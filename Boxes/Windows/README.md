@@ -21,4 +21,4 @@ scripts to run. If this is the case on your system there is a work around.
 
 4. Press the **Enter** key
 
-{https://github.com/tomhiggins/TheBobBox/blob/main/Boxes/Windows/msbobbox.jpg}
+![alt tag](https://github.com/tomhiggins/TheBobBox/blob/main/Boxes/Windows/msbobbox.jpg)

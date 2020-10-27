@@ -20,3 +20,5 @@ scripts to run. If this is the case on your system there is a work around.
 3. Open a Poweshell command line and paste
 
 4. Press the **Enter** key
+
+{https://github.com/tomhiggins/TheBobBox/blob/main/Boxes/Windows/msbobbox.jpg}

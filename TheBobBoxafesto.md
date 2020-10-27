@@ -9,6 +9,10 @@ devices and a little shizzle wizzle here and there.  **The BobBox** project will
 shizzle wizzle to simple cut and pasting, you will not need to get a degree in CompSci to bring the 
 good words to the waiting and wanting.
 
+**The BobBox** is starting out as an autoaudio player. In the future it will get addidtions. A web server to offer up files, a local content stash that hoes where you go, a chat mechanis to talk to those around you, and whatever else helps spread the good bits. 
+
+Use some, use all..
+
 Remember, we are not saved by good words or good deeds but by sending in your $35 to Bob. 
 
 All thanks and praise to [The Church of the Subgenius](http://subgenius.com/)
